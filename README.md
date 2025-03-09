@@ -6,7 +6,7 @@
 python main.py --method policy
 ```
 #### Demo
-![](policy_iteration.gif)
+![]([policy_iteration.gif](https://github.com/wannabeyourfriend/RL-DP-Cliff-walking/blob/main/result/policy_iteration.gif))
 #### Result
 ![](result.png)
 ###
